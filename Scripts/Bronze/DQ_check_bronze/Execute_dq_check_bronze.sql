@@ -1,0 +1,1 @@
+EXEC bronze.usp_load_bronze;
